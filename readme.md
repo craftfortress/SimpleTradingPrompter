@@ -3,7 +3,7 @@ This is a very early first stage prototype structure for a [trading](http://i.da
 
 ##Cool Bits
 Basic structure in place for any shell apps you might want to write which require taking input from the command prompt.
-It uses a Functional Programming reduce function for collating similar orders and then sorts them in 2 dimensions and printed out on screen. 
+It uses a Functional Programming reduce function for collating similar orders and then sorts them in a totally functional way bro.
 Basic Mocha & Chai setup
 
 ##Author
