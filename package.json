@@ -1,7 +1,7 @@
 {
   "name": "simpletradingapp",
-  "version": "2.0.0",
-  "description": "Ticker displays BUY & SELL orders",
+  "version": "2.0.1",
+  "description": "Simple Shell app that prompts user for order inputs then sorts and displays them.",
   "main": "main.js",
   "dependencies": {
     "chai": "^3.5.0",
