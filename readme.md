@@ -8,3 +8,7 @@ Basic Mocha & Chai setup
 
 ##Author
 Created by @craftfortress in a couple of hours
+
+##Links
+[NPM Package](https://www.npmjs.com/package/simpletradingapp)
+[Github](https://github.com/craftfortress/SimpleTradingPrompter)
