@@ -1,6 +1,6 @@
 {
   "name": "simpletradingapp",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Simple Shell app that prompts user for order inputs then sorts and displays them.",
   "main": "main.js",
   "dependencies": {
